@@ -1,0 +1,1 @@
+aniemore : speech - fall, text - ok, emotion - ok (анализ эмоциональности/aniemore.ipynb)
